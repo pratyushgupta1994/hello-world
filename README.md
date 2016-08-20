@@ -1,2 +1,3 @@
-# hello-world
-place to store ideas to get started
+
+Hi! I am pratyush
+Lover of soccer and the NBA
